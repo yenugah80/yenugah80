@@ -140,7 +140,7 @@ I bring curiosity, compassion, and the occasional meme to the table. Let's make 
 ![AI](https://img.shields.io/badge/AI-purple?style=flat-square&logoColor=white)  
 ![Dashboards](https://img.shields.io/badge/Dashboards-orange?style=flat-square&logoColor=white)  
 ![No-code%20Apps](https://img.shields.io/badge/No--code%20Apps-brightgreen?style=flat-square&logoColor=white)  
-![Data%20Storytelling](https://img.shields.io/badge/Data%20Storytelling-teal?style=flat-square&logoColor=white)  
+![Data%20Storytelling](https://img.shields.io/badge/Data%20Storytelling-teal?style=flat-square&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-darkblue?style=flat-square&logoColor=white)  
 ![Business%20Intelligence](https://img.shields.io/badge/Business%20Intelligence-gold?style=flat-square&logoColor=white)
 

@@ -1,6 +1,7 @@
-# Hello ALL, 
+# Hello DATA Enthusiasts, 
 
 I'm harika Yenuga a  **Senior Data Scientist | Analytics Consultant | Researcher | Builder | Storyteller**  
+
 ![Status](https://img.shields.io/badge/Status-Actively%20Exploring%20Cool%20Problems-brightgreen)  
 ![Domain Expertise](https://img.shields.io/badge/Domains-Finance%2C%20Healthcare%2C%20Supply%20Chain-blue)  
 ![Stack](https://img.shields.io/badge/Stack-Python%2C%20SQL%2C%20PowerBI%2C%20Azure%2C%20React%20Native-yellow)

@@ -84,9 +84,10 @@ Whether it’s helping execs see clearly or creating apps for real-world users, 
 
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
-![SSIS](https://img.shields.io/badge/-SSIS-0078D4?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+![SSIS](https://img.shields.io/badge/-SSIS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
 ![Azure](https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
 
 - Automated reporting and fraud detection across enterprise finance ops  
 - Reduced manual effort by up to 75% with intelligent data pipelines  

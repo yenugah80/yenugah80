@@ -1,4 +1,4 @@
-# Hello DATA Enthusiasts, 
+# Hello All, 
 
 I'm harika Yenuga a  **Senior Data Scientist | Analytics Consultant | Researcher | Builder | Storyteller**  
 

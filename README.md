@@ -1,7 +1,5 @@
 # Hello ALL, 
 
-THanks for visitng my Repo 
-
 I'm harika Yenuga a  **Senior Data Scientist | Analytics Consultant | Researcher | Builder | Storyteller**  
 ![Status](https://img.shields.io/badge/Status-Actively%20Exploring%20Cool%20Problems-brightgreen)  
 ![Domain Expertise](https://img.shields.io/badge/Domains-Finance%2C%20Healthcare%2C%20Supply%20Chain-blue)  
@@ -83,7 +81,12 @@ Whether it’s helping execs see clearly or creating apps for real-world users, 
 
 ### 📊 **Dashboards That Actually Talk to You**  
 > *Data stories that make sense — and make change*  
-![Business Intelligence Tools](https://img.shields.io/badge/Tools-PowerBI%2C%20Tableau%2C%20SSIS%2C%20Azure%2C%20Python-lightgrey)
+
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)  
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)  
+![SSIS](https://img.shields.io/badge/-SSIS-0078D4?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
+![Azure](https://img.shields.io/badge/-Azure-0078D7?style=flat-square&logo=microsoft-azure&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 - Automated reporting and fraud detection across enterprise finance ops  
 - Reduced manual effort by up to 75% with intelligent data pipelines  

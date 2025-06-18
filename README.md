@@ -134,14 +134,15 @@ I bring curiosity, compassion, and the occasional meme to the table. Let's make 
 
 ---
 
-## 💬 Ask Me About  
-![Ask Me](https://img.shields.io/badge/Ask%20Me-KPIs%2C%20AI%2C%20Dashboards%2C%20No-code%20Apps-informational)
+## 💬 Ask Me About
 
-- KPI Design & Dashboard Storytelling  
-- Workflow Automation with AppWorks  
-- Building Analytics Products from Scratch  
-- BI Strategy in Complex Enterprise Environments  
-- No-Code + LLM App Development  
+![KPIs](https://img.shields.io/badge/KPIs-Measurement-blue?style=flat-square&logo=chart-bar&logoColor=white)  
+![AI](https://img.shields.io/badge/AI-Cutting%20Edge-purple?style=flat-square&logo=robot&logoColor=white)  
+![Dashboards](https://img.shields.io/badge/Dashboards-Visualization-orange?style=flat-square&logo=tableau&logoColor=white)  
+![No-code Apps](https://img.shields.io/badge/No--code%20Apps-Automation-brightgreen?style=flat-square&logo=zapier&logoColor=white)  
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-Narrative-teal?style=flat-square&logo=story&logoColor=white)  
+![Automation](https://img.shields.io/badge/Automation-Workflow-darkblue?style=flat-square&logo=cogs&logoColor=white)  
+![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-BI_tools-gold?style=flat-square&logo=power-bi&logoColor=white)
 
 ---
 

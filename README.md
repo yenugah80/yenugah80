@@ -67,7 +67,7 @@ Whether it’s helping execs see clearly or creating apps for real-world users, 
 
 - Full-stack mobile app that gamifies nutrition and health logging  
 - Features: voice/photo-based meal logging, barcode scanner, AI diet planner, fitness tracking, macro alerts  
-- Stack: React Native, Firebase, PostgreSQL, Tailwind, OpenAI, Open Food Facts API  
+- Stack: React Native, PostgreSQL, Tailwind, OpenAI, Flutter for my hybrid app 
 
 ---
 

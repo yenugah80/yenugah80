@@ -61,7 +61,8 @@ Whether it’s helping execs see clearly or creating apps for real-world users, 
 
 ### 📱 **#MyFoodMatrix**  
 > *The Pocket Nutrition Coach for Real People*  
-![React Native](https://img.shields.io/badge/Built%20With-React%20Native-blue) ![Firebase](https://img.shields.io/badge/Backend-Firebase-orange) ![AI](https://img.shields.io/badge/AI-GPT%204-purple?style=flat-square&logo=openai&logoColor=white)
+![React Native](https://img.shields.io/badge/Built%20With-React%20Native-blue) ![PostgreSQL](https://img.shields.io/badge/Backend-PostgreSQL-336791) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AI](https://img.shields.io/badge/AI-GPT%204-purple?style=flat-square&logo=openai&logoColor=white)
 
 
 - Full-stack mobile app that gamifies nutrition and health logging  

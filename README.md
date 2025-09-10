@@ -1,6 +1,9 @@
 # Hello All, 
 
-I'm harika Yenuga a  **Senior Data Scientist , AI Engineer | Data Analyst | Researcher | Builder | Storyteller**  
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=AI+%26+ML+Engineer;Senior+Data+Scientist+%26+Analyst;MLOps+%7C+Data+Product+Owner;Building+LLM+%26+Agentic+Systems)](https://git.io/typing-svg)
+
+---
 
 ![Status](https://img.shields.io/badge/Status-Actively%20Exploring%20Cool%20Problems-brightgreen)  
 ![Domain Expertise](https://img.shields.io/badge/Domains-Finance%2C%20Healthcare%2C%20Supply%20Chain-blue)  

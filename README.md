@@ -13,7 +13,7 @@ I’m an **AI/ML Platform Engineer, Product Owner, and Senior Data Analyst** wit
    I’ve also published research in **Responsible AI and Generative AI** (IEEE AIRC 2025, IBAC 2025), exploring how to make AI both scalable and accountable.  
 🎓 I hold an **Master of Science in Business Analytics (GPA 3.87)**, blending deep with my majors in data science skills with business strategy.  
 
-At my core, I build AI and BI systems that don’t just predict — they **ship, scale, explain themselves, and deliver measurable business outcomes**.  
+At my core, I build AI and BI systems that don’t just predict :- they **ship, scale, explain themselves, and deliver measurable business outcomes**.  
 
 
 ---

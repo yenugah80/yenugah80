@@ -2,11 +2,11 @@
 
 Welcome to my Github! I'm Harika Yenuga  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=600&width=700&lines=AI%2FML+Platform+Engineer;Data+Product+Owner;Agentic+Systems+Architect;RAG+%26+LLM+Workflow+Builder;MLOps+Pipeline+Engineer;Fraud+%26+Risk+Analytics+Specialist;BI+%26+Data+Storytelling+Pro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=600&width=700&lines=AI%2FML+Platform+Engineer;Data+Product+Owner;Agentic+Systems+Architect;RAG+%26+LLM+Workflow+Builder;MLOps+Pipeline+Engineer;Senior+%26+Data+Analyst+Specialist;BI+%26+Data+Storytelling+Pro)](https://git.io/typing-svg)
 
 ---
 
-I’m an **AI/ML Platform Engineer, Data Product Owner, and Senior Data Analyst** with 6+ years of experience building systems along with my little software application development that actually work in the real world.  
+I’m an **AI/ML Platform Engineer, Product Owner, and Senior Data Analyst** with 6+ years of experience building systems along with my little software application development that actually work in the real world.  
 
 ⚡ I’ve architected **agentic systems, RAG-powered workflows, and MLOps pipelines** that scale across enterprise, startup, and research environments.  
 🤖 My work spans **fraud detection, risk scoring, multimodal sentiment pipelines, and real-time financial insights** — all engineered for speed, reliability, and impact.  

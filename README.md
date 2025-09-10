@@ -1,18 +1,28 @@
 # Hello All, 
 
+Welcome to my Github! I'm Harika Yenuga  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=AI+%26+ML+Engineer;Senior+Data+Scientist+%26+Analyst;MLOps+%7C+Data+Product+Owner;Building+LLM+%26+Agentic+Systems)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=600&width=700&lines=AI%2FML+Platform+Engineer;Data+Product+Owner;Agentic+Systems+Architect;RAG+%26+LLM+Workflow+Builder;MLOps+Pipeline+Engineer;Fraud+%26+Risk+Analytics+Specialist;BI+%26+Data+Storytelling+Pro)](https://git.io/typing-svg)
 
 ---
+
+Welcome to my Github! I’m an **AI/ML Platform Engineer, Data Product Owner, and Senior Data Analyst** with 6+ years of experience building systems along with my little software application development that actually work in the real world.  
+
+⚡ I’ve architected **agentic systems, RAG-powered workflows, and MLOps pipelines** that scale across enterprise, startup, and research environments.  
+🤖 My work spans **fraud detection, risk scoring, multimodal sentiment pipelines, and real-time financial insights** — all engineered for speed, reliability, and impact.  
+📊 On the analytics side, I deliver **BI solutions and dashboards in Power BI, Tableau, SQL, and Python** that turn messy data into decision-ready insights for executives and clients.  
+📚 I’ve also published research in **Responsible AI and Generative AI** (IEEE AIRC 2025, IBAC 2025), exploring how to make AI both scalable and accountable.  
+🎓 I hold an **MS in Business Analytics (GPA 3.87)**, blending deep data science skills with business strategy.  
+
+At my core, I build AI and BI systems that don’t just predict — they **ship, scale, explain themselves, and deliver measurable business outcomes**.  
+
+
+---
+
 
 ![Status](https://img.shields.io/badge/Status-Actively%20Exploring%20Cool%20Problems-brightgreen)  
 ![Domain Expertise](https://img.shields.io/badge/Domains-Finance%2C%20Healthcare%2C%20Supply%20Chain-blue)  
 ![Stack](https://img.shields.io/badge/Stack-Python%2C%20SQL%2C%20PowerBI%2C%20Azure%2C%20React%20Native-yellow)
-
----
-
-Welcome to my GitHub! I specialize in **data science, enterprise analytics, and AI research**, with over **6 years of experience** solving high-impact problems across **finance, supply chain, retail, and healthcare**.  
-I’m passionate about building **end-to-end data solutions** that don’t just live in dashboards — they drive decisions.
 
 ---
 

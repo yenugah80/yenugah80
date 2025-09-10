@@ -10,9 +10,9 @@ I’m an **AI/ML Platform Engineer, Product Owner, and Senior Data Analyst** wit
 
 ⚡ I’ve architected **agentic systems, RAG-powered workflows, and MLOps pipelines** that scale across enterprise, startup, and research environments.  
 🤖 My work spans **fraud detection, risk scoring, multimodal sentiment pipelines, and real-time financial insights** — all engineered for speed, reliability, and impact.  
-📊 On the analytics side, I deliver **BI solutions and dashboards in Power BI, Tableau, SQL, and Python** that turn messy data into decision-ready insights for executives and clients.  
-📚 I’ve also published research in **Responsible AI and Generative AI** (IEEE AIRC 2025, IBAC 2025), exploring how to make AI both scalable and accountable.  
-🎓 I hold an **MS in Business Analytics (GPA 3.87)**, blending deep data science skills with business strategy.  
+   On the analytics side, I deliver **BI solutions and dashboards in Power BI, Tableau, SQL, and Python** that turn messy data into decision-ready insights for executives and clients.  
+   I’ve also published research in **Responsible AI and Generative AI** (IEEE AIRC 2025, IBAC 2025), exploring how to make AI both scalable and accountable.  
+🎓 I hold an **Master of Science in Business Analytics (GPA 3.87)**, blending deep with my majors in data science skills with business strategy.  
 
 At my core, I build AI and BI systems that don’t just predict — they **ship, scale, explain themselves, and deliver measurable business outcomes**.  
 

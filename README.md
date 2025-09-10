@@ -72,7 +72,6 @@ Whether it’s helping execs see clearly or creating apps for real-world users, 
 > *The Pocket Nutrition Coach for Real People*  
 ![React Native](https://img.shields.io/badge/Built%20With-React%20Native-blue) ![PostgreSQL](https://img.shields.io/badge/Backend-PostgreSQL-336791) ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-GPT%204-purple?style=flat-square&logo=openai&logoColor=white)
-![xAI](https://img.shields.io/badge/Explainable-AI%20Exploring%20Cool%20Problems-brightgreen)  
 
 
 - Full-stack mobile app that gamifies nutrition and health logging  
@@ -83,7 +82,7 @@ Whether it’s helping execs see clearly or creating apps for real-world users, 
 
 ### 🧠 **AI Meets Empathy**  
 > *Making Machines a Little More Human*  
-![IEEE](https://img.shields.io/badge/Conference-IEEE%20AIRC%202025-critical) ![Ethical AI](https://img.shields.io/badge/Focus-Ethical%20AI-red)
+![IEEE](https://img.shields.io/badge/Conference-IEEE%20AIRC%202025-critical) ![Ethical AI](https://img.shields.io/badge/Focus-Ethical%20AI-red) ![xAI](https://img.shields.io/badge/Explainable-AI%20Exploring%20Coolfor%20Transparency-brightgreen)  
 
 - Published NLP and GenAI research in IEEE and IBAC 2025  
 - Explored AI fairness in hiring, NLP fraud tools, bias detection, and human-centric AI frameworks  

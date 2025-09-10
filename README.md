@@ -2,7 +2,7 @@
 
 Welcome to my Github! I'm Harika Yenuga  
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=600&width=700&lines=AI%2FML+Platform+Engineer;Data+Product+Owner;Agentic+Systems+Architect;RAG+%26+LLM+Workflow+Builder;MLOps+Pipeline+Engineer;Senior+%26+Data+Analyst+Specialist;BI+%26+Data+Storytelling+Pro)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=600&width=700&lines=AI%2FML+Platform+Engineer;Senior+Data+Analyst+;BI+%26+Data+Storytelling+Pro;Data+Product+Owner;Agentic+Systems+Architect;RAG+%26+LLM+Workflow+Builder;MLOps+Pipeline+Engineer;)](https://git.io/typing-svg)
 
 ---
 

@@ -80,6 +80,19 @@ Whether it’s helping execs see clearly or creating apps for real-world users, 
 
 ---
 
+### 🤖 **FrontendDevAI**
+> *Automated Frontend Component Discovery System*
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+- Automated system for discovering and curating the latest frontend development trends
+- Multi-source data collection from GitHub Trending, Dev.to, CSS-Tricks, and Smashing Magazine
+- Smart deduplication using Levenshtein distance algorithm
+- Admin review workflow with approval/rejection system
+- RESTful API with 8+ endpoints for component management
+- [View Project →](./frontenddevai)
+
+---
+
 ### 🧠 **AI Meets Empathy**  
 > *Making Machines a Little More Human*  
 ![IEEE](https://img.shields.io/badge/Conference-IEEE%20AIRC%202025-critical) ![Ethical AI](https://img.shields.io/badge/Focus-Ethical%20AI-red) ![xAI](https://img.shields.io/badge/Explainable-AI%20Exploring%20Coolfor%20Transparency-brightgreen)  

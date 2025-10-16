@@ -1,0 +1,14 @@
+{
+  "name": "scraper-microservice",
+  "version": "1.0.0",
+  "description": "A microservice for scraping data",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'No tests specified' && exit 0"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5"
+  }
+}

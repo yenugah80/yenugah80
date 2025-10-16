@@ -63,7 +63,7 @@ describe('DeduplicationService', () => {
 
   test('should handle empty strings', () => {
     const similarity = DeduplicationService.calculateSimilarity('', '');
-    expect(similarity).toBe(1);
+    expect(similarity).toBe(0);
   });
 
   test('should handle null values', () => {

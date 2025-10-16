@@ -80,10 +80,9 @@ Whether it’s helping execs see clearly or creating apps for real-world users, 
 
 ---
 
-### 🧠 **AI Meets Empathy**  
-> *Making Machines a Little More Human*  
+### 🧠 **Revolutionizing Recruitment: Enhanced Machine Learning Models for Bias Mitigation and Efficiency**  
+> *Author, Submitted to Empirical Economics Letters (EEL)-->IBAC International Business Analytics Conference*                                                                                                                                            
 ![IEEE](https://img.shields.io/badge/Conference-IEEE%20AIRC%202025-critical) ![Ethical AI](https://img.shields.io/badge/Focus-Ethical%20AI-red) ![xAI](https://img.shields.io/badge/Explainable-AI%20Exploring%20Coolfor%20Transparency-brightgreen)  
-
 - Published NLP and GenAI research in IEEE and IBAC 2025  
 - Explored AI fairness in hiring, NLP fraud tools, bias detection, and human-centric AI frameworks  
 - Deployed AI tools in high-stakes domains like finance and healthcare  

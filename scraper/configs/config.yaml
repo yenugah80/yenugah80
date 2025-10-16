@@ -1,0 +1,7 @@
+# Scraper Microservice Configuration
+
+# Configuration for the scraper microservice
+
+DATABASE_URI: 'your_database_uri'
+SCHEDULER_INTERVAL: '10 minutes'
+API_PORT: 8080

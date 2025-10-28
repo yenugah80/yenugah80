@@ -1,14 +1,13 @@
 # 👋 Hello All, I'm Harika Yenuga  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=550&lines=Hi+I'm+Harika+💫;Welcome+to+my+GitHub!;Data+Scientist+%7C+ML+Researcher;AI+%26+Analytics+Enthusiast;Building+AI-Driven+Projects+Everyday!)](https://git.io/typing-svg)
+# 👋 Hi, I'm Harika Yenuga  
 
----
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=1500&pause=600&color=00D2FF&center=true&vCenter=true&width=800&lines=AI%2FML+Platform+Engineer+💻;Senior+Data+Analyst+📊;BI+%26+Data+Storytelling+Pro+📈;Data+Product+Owner+⚙️;Agentic+Systems+Architect+🤖;RAG+%26+LLM+Workflow+Builder+🧠;MLOps+Pipeline+Engineer+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Researcher;AI%2FML+Platform+Engineer;Senior+Data+Analyst;Agentic+Systems+Architect;RAG+%26+LLM+Workflow+Builder;Building+AI-Driven+Projects+Everyday!)](https://git.io/typing-svg)
 
 ---
 
 ### 📊 GitHub Stats  
+
 ![Harika's GitHub stats](https://github-readme-stats.vercel.app/api?username=harikayenuga&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
 ![GitHub Streak](https://streak-stats.demolab.com?user=harikayenuga&theme=tokyonight-duo&hide_border=true&border_radius=12)
 

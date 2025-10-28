@@ -12,22 +12,22 @@
 
 ## 🧠 About Me  
 
-I’m an **AI/ML Platform Engineer, Product Owner, and Senior Data Analyst** with 6+ years of experience designing and deploying intelligent systems that solve *real* problems.  
-My work sits at the intersection of **AI, analytics, and product thinking** — blending model precision with business impact.  
+I’m an **AI/ML Platform Engineer, Product Owner, and Senior Data Analyst** with years of experience designing and deploying intelligent systems that solve *real* problems.  
+My work sits at the intersection of **AI, analytics, and product thinking** blending model precision with business impact.  
 
 ⚡ **Architected** agentic systems, RAG-powered workflows, and MLOps pipelines that scale seamlessly across enterprise, startup, and research ecosystems.  
 🤖 **Engineered** fraud detection, risk scoring, and multimodal sentiment pipelines built for speed, transparency, and trust.  
 📊 **Delivered** BI and storytelling dashboards in Power BI, Tableau, and SQL that turn raw data into actionable insights for executives and stakeholders.  
 🧩 **Published** research in Responsible AI and Generative AI (*IEEE AIRC 2025, IBAC 2025*) focusing on transparency, fairness, and model accountability.  
-🎓 **Educated** with a Master of Science in Business Analytics (GPA 3.87) from Northwood University — merging technical depth with business strategy.  
+🎓 **Educated** with a Master of Science in Business Analytics (GPA 3.87) from Northwood University  merging technical depth with business strategy.  
 
-> I don’t just build models that predict — I build systems that **ship, scale, explain themselves, and create measurable business outcomes.**
+> I don’t just build models that predict I build systems that **ship, scale, explain themselves, and create measurable business outcomes.**
 
 ---
 
 ## 💡 My Journey  
 
-I began with a **Bachelor’s in Electronics & Communication Engineering**, programming microcontrollers and decoding signal systems. Somewhere between circuits and C code, I fell in love with data — the language of logic *and* intuition.
+I began with a **Bachelor’s in Electronics & Communication Engineering**, programming microcontrollers and decoding signal systems. Somewhere between circuits and C code, I fell in love with data the language of logic *and* intuition.
 
 That passion led me to pursue a **Master’s in Business Analytics** in Michigan, where I dove deep into **machine learning, decision science, and AI-driven problem solving.**
 
@@ -82,29 +82,14 @@ I’ve also contributed to **data-driven simulations at Harvard Business School*
 ![Fairness](https://img.shields.io/badge/Fairness-Bias-Mitigation-green)
 ![Explainability](https://img.shields.io/badge/Explainability-SHAP-blue)
 
-- Developed **transformer-based hiring models** using BERT & GPT embeddings  
 - Reduced human bias through **feature interpretability & fairness metrics**  
 - Explored ethical AI deployment in **finance & HR decision systems**
 
 ---
 
-### 📊 **Dashboards That Talk Back**  
-> *Data storytelling that drives clarity & change*  
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-E97627)
-![Azure](https://img.shields.io/badge/Azure_Data-Pipeline-0078D7)
-![Python](https://img.shields.io/badge/Python-3776AB)
-
-- Automated enterprise-wide reporting & anomaly detection  
-- Cut manual reporting by **75 %** using AI-driven pipelines  
-- Designed executive dashboards that **explain, not just display**
-
----
-
 ## ✍️ I Also Write  
 
-Because some of the best insights aren’t in the code — they’re in the conversation.  
+Because some of the best insights aren’t in the code they’re in the conversation.  
 
 📝 **Blog:** [The Data Byte](https://thedatabyte.blogspot.com)  
 📖 **Medium:** [@harikayenuga](https://medium.com/@harikayenuga)  
@@ -115,7 +100,7 @@ Because some of the best insights aren’t in the code — they’re in the conv
 
 ## 🌍 The Big Picture  
 
-I’m not just here to *ship deliverables* — I’m here to solve **meaningful problems** that demand both logic and imagination.  
+I’m not just here to *ship deliverables* : I’m here to solve **meaningful problems** that demand both logic and imagination.  
 
 Whether it’s:
 - Forecasting demand for smarter planning  

@@ -79,7 +79,7 @@ I’ve also contributed to **data-driven simulations at Harvard Business School*
 > *Published research accepted at IEEE AIRC 2025 & IBAC 2025*  
 
 ![Research](https://img.shields.io/badge/Focus-Responsible%20AI-red)
-![Fairness](https://img.shields.io/badge/Fairness-Bias-Mitigation-green)
+![Fairness](https://img.shields.io/badge/Fairness%20%E2%80%93%20Bias%20Mitigation-28A745?style=for-the-badge&logo=handshake&logoColor=white)
 ![Explainability](https://img.shields.io/badge/Explainability-SHAP-blue)
 
 - Reduced human bias through **feature interpretability & fairness metrics**  

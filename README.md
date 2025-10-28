@@ -1,16 +1,9 @@
 # 👋 Hello All, I'm Harika Yenuga  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Researcher;AI%2FML+Platform+Engineer;Senior+Data+Analyst;Agentic+Systems+Architect;RAG+%26+LLM+Workflow+Builder;Building+AI-Driven+Projects+Everyday!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=800&lines=Senior+Data+Scientist+%7C+GenAI+Engineer;AI%2FML+Platform+Architect;Senior+Data+Engineer+%7C+PySpark+%26+Hadoop;Agentic+Systems+Architect+%7C+RAG+Pipeline+Builder;LLM+Workflow+Engineer+%7C+MLOps+Practitioner;Building+Scalable+AI-Driven+Products+Everyday!)](https://git.io/typing-svg)
 
 ---
 
-### 📊 GitHub Stats  
-
-![Harika's GitHub stats](https://github-readme-stats.vercel.app/api?username=harikayenuga&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
-![GitHub Streak](https://streak-stats.demolab.com?user=harikayenuga&theme=tokyonight-duo&hide_border=true&border_radius=12)
-
-
----
 
 I’m an **AI/ML Platform Engineer, Product Owner, and Senior Data Analyst** with 6+ years of experience building systems along with my little software application development that actually work in the real world.  
 

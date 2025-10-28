@@ -1,7 +1,5 @@
 # 👋 Hello All, I'm Harika Yenuga  
 
-# 👋 Hi, I'm Harika Yenuga  
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=700&lines=Data+Scientist+%7C+ML+Researcher;AI%2FML+Platform+Engineer;Senior+Data+Analyst;Agentic+Systems+Architect;RAG+%26+LLM+Workflow+Builder;Building+AI-Driven+Projects+Everyday!)](https://git.io/typing-svg)
 
 ---

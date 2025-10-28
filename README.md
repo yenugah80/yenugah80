@@ -57,16 +57,6 @@ I’ve also contributed to **data-driven simulations at Harvard Business School*
 
 ---
 
-<p align="center">
-  <svg width="120" height="120">
-    <circle cx="60" cy="60" r="54" stroke="#0f9d58" stroke-width="10" fill="none" />
-    <circle cx="60" cy="60" r="54" stroke="#4285F4" stroke-width="10" stroke-dasharray="339.292" stroke-dashoffset="33.929" fill="none" transform="rotate(-90 60 60)" />
-    <text x="50%" y="50%" text-anchor="middle" stroke="#fff" stroke-width="1px" dy=".3em">Python</text>
-  </svg>
-</p>
-
----
-
 ## 🧩 Featured Projects  
 
 ### 📱 **MyFoodMatrix – The Pocket Nutrition Coach**  
@@ -75,8 +65,9 @@ I’ve also contributed to **data-driven simulations at Harvard Business School*
 ![React Native](https://img.shields.io/badge/Frontend-React%20Native-blue)
 ![PostgreSQL](https://img.shields.io/badge/Backend-PostgreSQL-336791)
 ![Flutter](https://img.shields.io/badge/Hybrid-Flutter-02569B)
-![GPT-4](https://img.shields.io/badge/AI-GPT-4-purple)
-![FAISS](https://img.shields.io/badge/RAG-Engine-FAISS-0055A4)
+![GPT-4](https://img.shields.io/badge/AI--Powered-GPT--4-6C63FF?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/RAG%20Engine-FAISS-0055A4?style=flat-square&logo=meta&logoColor=white)
+
 
 - Gamifies nutrition logging with **voice, barcode, and photo inputs**  
 - Integrates **GPT-4 + FAISS** for personalized meal recommendations  

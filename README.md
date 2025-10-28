@@ -1,4 +1,4 @@
-# 👋 Hello All, I'm Harika Yenuga  
+# Hello All, I'm Harika
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=800&lines=Senior+Data+Scientist+%7C+GenAI+Engineer;AI%2FML+Platform+Architect;Senior+Data+Engineer+%7C+PySpark+%26+Hadoop;Agentic+Systems+Architect+%7C+RAG+Pipeline+Builder;LLM+Workflow+Engineer+%7C+MLOps+Practitioner;Building+Scalable+AI-Driven+Products+Everyday!)](https://git.io/typing-svg)
 

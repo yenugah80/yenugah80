@@ -1,12 +1,13 @@
+---
+
+![Status](https://img.shields.io/badge/Status-Actively%20Exploring%20Cool%20Problems-brightgreen)  ![Domain Expertise](https://img.shields.io/badge/Domains-Finance%2C%20Healthcare%2C%20Supply%20Chain-blue) ![Stack](https://img.shields.io/badge/Stack-Python%2C%20SQL%2C%20PowerBI%2C%20Azure%2C%20React%20Native-yellow)
+
 # Hello All, I'm Harika
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=800&lines=Senior+Data+Scientist+%7C+GenAI+Engineer;AI%2FML+Platform+Architect;Senior+Data+Engineer+%7C+PySpark+%26+Hadoop;Agentic+Systems+Architect+%7C+RAG+Pipeline+Builder;LLM+Workflow+Engineer+%7C+MLOps+Practitioner;Building+Scalable+AI-Driven+Products+Everyday!)](https://git.io/typing-svg)
 
 ---
 
-![Status](https://img.shields.io/badge/Status-Actively%20Exploring%20Cool%20Problems-brightgreen)  ![Domain Expertise](https://img.shields.io/badge/Domains-Finance%2C%20Healthcare%2C%20Supply%20Chain-blue) ![Stack](https://img.shields.io/badge/Stack-Python%2C%20SQL%2C%20PowerBI%2C%20Azure%2C%20React%20Native-yellow)
-
----
 | **Category** | **Tools & Technologies** |
 |---------------|--------------------------|
 | **Languages & Frameworks** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-025E8C?style=flat-square&logo=sqlite&logoColor=white) ![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1E90FF?style=flat-square&logo=chainlink&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-F9DC5C?style=flat-square&logo=huggingface&logoColor=black) ![spaCy](https://img.shields.io/badge/-spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white) ![NLTK](https://img.shields.io/badge/-NLTK-154360?style=flat-square&logo=python&logoColor=white) |

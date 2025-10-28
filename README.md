@@ -136,13 +136,17 @@ Let’s make innovation human — and make it count.
 ---
 
 ### 💬 Ask Me About  
-![KPIs](https://img.shields.io/badge/KPIs-blue)
-![AI](https://img.shields.io/badge/AI-purple)
-![Dashboards](https://img.shields.io/badge/Dashboards-orange)
-![No-Code](https://img.shields.io/badge/No-Code-Apps-brightgreen)
-![Data Storytelling](https://img.shields.io/badge/Data Storytelling-teal)
-![Automation](https://img.shields.io/badge/Automation-darkblue)
-![Business Intelligence](https://img.shields.io/badge/Business Intelligence-gold)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-Model%20Building%20%26%20Deployment-6C63FF?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GenAI-RAG%20%7C%20LangChain%20%7C%20LLMs-1E90FF?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/MLOps-CI%2FCD%20%7C%20Databricks%20%7C%20MLflow-FF6F00?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Engineering-PySpark%20%7C%20Azure%20%7C%20Airflow-00B5AD?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Analytics-Power%20BI%20%7C%20Tableau%20%7C%20SQL-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Storytelling-Insight%20Design%20%7C%20BI%20Strategy-FF4081?style=for-the-badge&logo=storyblok&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-APIs%20%7C%20Agents%20%7C%20No--Code%20Apps-0078D7?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
+
 
 ---
 

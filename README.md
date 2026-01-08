@@ -59,7 +59,7 @@ I’ve also contributed to **data-driven simulations at Harvard Business School*
 
 ## 🧩 Featured Projects  
 
-### 📱 **MyFoodMatrix – The Pocket Nutrition Coach**  
+### 📱 **MyFoodTracker – The Pocket Nutrition Coach**  
 > *AI-powered nutrition & fitness companion for real people*  
 
 ![React Native](https://img.shields.io/badge/Frontend-React%20Native-blue)

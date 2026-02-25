@@ -2,7 +2,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Actively%20Exploring%20Cool%20Problems-brightgreen)
 ![Domains](https://img.shields.io/badge/Domains-Finance%2C%20Healthcare%2C%20Supply%20Chain-blue)
-![Stack](https://img.shields.io/badge/Stack-Python%2C%20SQL%2C%20PowerBI%2C%20Azure%2C%20React%20Native-yellow)
+![Stack](https://img.shields.io/badge/Stack-GenAI%20Architecture%20%7C%20Agentic%20Systems%20%7C%20RAG%20Pipelines%20%7C%20MLOps%20%7C%20Cloud%20AI-yellow)
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yenugah80&color=F65C8E&style=for-the-badge" />
 </p>
@@ -119,6 +119,7 @@ Let’s make innovation human — and make it count.
 
 💼 **LinkedIn:** [linkedin.com/in/harika-ye](https://www.linkedin.com/in/harika-ye)  
 🐦 **Twitter:** [@HarikaY](https://twitter.com/HarikaY)  
+✍️ **Medium:** [medium.com/@harikayenuga](https://medium.com/@harikayenuga)  
 📧 **Email:** [harika20y@gmail.com](mailto:harika20y@gmail.com)  
 
 ---

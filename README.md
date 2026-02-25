@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=yenugah80&color=F65C8E&style=for-the-badge" />
 </p>
 
-# Hello, I'm Harika Y 
+# Hello, I'm Harika Y
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=850&lines=Senior+Data+Scientist+%7C+GenAI+Engineer;AI%2FML+Platform+Architect+%7C+Product+Owner;Agentic+Systems+%26+RAG+Pipeline+Builder;MLOps+Practitioner+%7C+Analytics+Strategist;Building+AI+That+Scales+%26+Explains+Itself)](https://git.io/typing-svg)
 

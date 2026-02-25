@@ -3,6 +3,9 @@
 ![Status](https://img.shields.io/badge/Status-Actively%20Exploring%20Cool%20Problems-brightgreen)
 ![Domains](https://img.shields.io/badge/Domains-Finance%2C%20Healthcare%2C%20Supply%20Chain-blue)
 ![Stack](https://img.shields.io/badge/Stack-Python%2C%20SQL%2C%20PowerBI%2C%20Azure%2C%20React%20Native-yellow)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yenugah80&color=F65C8E&style=for-the-badge" />
+</p>
 
 # Hello, I'm Harika Y 
 

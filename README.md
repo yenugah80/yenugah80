@@ -94,9 +94,9 @@ I’ve also contributed to **data-driven simulations at Harvard Business School*
 
 Because some of the best insights aren’t in the code they’re in the conversation.  
 
-📝 **Blog:** [The Data Byte](https://thedatabyte.blogspot.com)  
-📖 **Medium:** [@harikayenuga](https://medium.com/@harikayenuga)  
-![Blogger](https://img.shields.io/badge/Blogger-Harika-yellow)
+📝 **Substack:** [The Data Byte]([https://thedatabyte.blogspot.com](https://substack.com/@harikayenuga))  
+   **Medium:** [@harikayenuga](https://medium.com/@harikayenuga)  
+![Substack]([![Substack](https://img.shields.io/badge/Substack-FF6719?logo=substack&logoColor=fff)](#))
 ![Medium](https://img.shields.io/badge/Medium-Harika%20Yenuga-black)
 
 ---

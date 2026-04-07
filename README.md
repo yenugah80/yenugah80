@@ -141,4 +141,4 @@ Let’s make innovation human and make it count.
 ### ✨ _Thanks for stopping by._  
 If you enjoy solving **real-world problems with real-world data**, let’s connect and build something that matters.  
 
-**— Harika Yenuga ☕💫**
+** ~Harika Yenuga ☕💫**

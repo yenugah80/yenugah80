@@ -13,22 +13,22 @@
 
 ---
 
-## 🧠 About Me  
+## About Me  
 
 I’m an **AI/ML Platform Engineer, Product Owner, and Senior Data Analyst** with years of experience designing and deploying intelligent systems that solve *real* problems.  
 My work sits at the intersection of **AI, analytics, and product thinking** blending model precision with business impact.  
 
-⚡ **Architected** agentic systems, RAG-powered workflows, and MLOps pipelines that scale seamlessly across enterprise, startup, and research ecosystems.  
-🤖 **Engineered** fraud detection, risk scoring, and multimodal sentiment pipelines built for speed, transparency, and trust.  
-📊 **Delivered** BI and storytelling dashboards in Power BI, Tableau, and SQL that turn raw data into actionable insights for executives and stakeholders.  
-🧩 **Published** research in Responsible AI and Generative AI (*IEEE AIRC 2025, IBAC 2025*) focusing on transparency, fairness, and model accountability.  
-🎓 **Educated** with a Master of Science in Business Analytics (GPA 3.87) from Northwood University  merging technical depth with business strategy.  
+**Architected** agentic systems, RAG-powered workflows, and MLOps pipelines that scale seamlessly across enterprise, startup, and research ecosystems.  
+**Engineered** fraud detection, risk scoring, and multimodal sentiment pipelines built for speed, transparency, and trust.  
+**Delivered** BI and storytelling dashboards in Power BI, Tableau, and SQL that turn raw data into actionable insights for executives and stakeholders.  
+**Published** research in Responsible AI and Generative AI (*IEEE AIRC 2025, IBAC 2025*) focusing on transparency, fairness, and model accountability.  
+**Educated** with a Master of Science in Business Analytics (GPA 3.87) from Northwood University  merging technical depth with business strategy.  
 
 > I don’t just build models that predict I build systems that **ship, scale, explain themselves, and create measurable business outcomes.**
 
 ---
 
-## 💡 My Journey  
+## My Journey  
 
 I began with a **Bachelor’s in Electronics & Communication Engineering**, programming microcontrollers and decoding signal systems. Somewhere between circuits and C code, I fell in love with data the language of logic *and* intuition.
 
@@ -36,17 +36,17 @@ That passion led me to pursue a **Master’s in Business Analytics** in Michigan
 
 I’ve since worked with **Apple**, **Bank of America**, and **Macy’s Inc.**, where I led and contributed to:
 
-- 📉 Business process automation & forecasting optimization  
-- 💰 Financial and regulatory AI systems  
-- 🔍 NLP-based fraud detection and AI governance models  
-- 📲 Health-tech product development (GPT + FAISS + LangChain)  
-- 📊 Enterprise BI dashboards and automated analytics pipelines  
+- Business process automation & forecasting optimization  
+- Financial and regulatory AI systems  
+- NLP-based fraud detection and AI governance models  
+- Health-tech product development (GPT + FAISS + LangChain)  
+- Enterprise BI dashboards and automated analytics pipelines  
 
 I’ve also contributed to **data-driven simulations at Harvard Business School**, and conducted **GenAI ethics research**, designing systems for compliance, productivity, and behavior analytics.
 
 ---
 
-## 🚀 Tech Stack  
+## Tech Stack  
 
 | **Category** | **Tools & Technologies** |
 |---------------|--------------------------|
@@ -60,9 +60,9 @@ I’ve also contributed to **data-driven simulations at Harvard Business School*
 
 ---
 
-## 🧩 Featured Projects  
+## Featured Projects  
 
-### 📱 **MyFoodTracker – The Pocket Nutrition Coach**  
+### **MyFoodTracker – The Pocket Nutrition Coach**  
 > *AI-powered nutrition & fitness companion for real people*  
 
 ![React Native](https://img.shields.io/badge/Frontend-React%20Native-blue)
@@ -78,7 +78,7 @@ I’ve also contributed to **data-driven simulations at Harvard Business School*
 
 ---
 
-### 🧠 **Optimizing Recruitment with Responsible AI**  
+### **Optimizing Recruitment with Responsible AI**  
 > *Published research accepted at IEEE AIRC 2025 & IBAC 2025*  
 
 ![Research](https://img.shields.io/badge/Focus-Responsible%20AI-red)
@@ -118,8 +118,8 @@ Let’s make innovation human — and make it count.
 ## 🌐 Let’s Connect  
 
 💼 **LinkedIn:** [linkedin.com/in/harika-ye](https://www.linkedin.com/in/harika-ye)  
-🐦 **Twitter:** [@HarikaY](https://twitter.com/HarikaY)  
-✍️ **Medium:** [medium.com/@harikayenuga](https://medium.com/@harikayenuga)  
+**Twitter:** [@HarikaY](https://twitter.com/HarikaY)  
+**Medium:** [medium.com/@harikayenuga](https://medium.com/@harikayenuga)  
 📧 **Email:** [harika20y@gmail.com](mailto:harika20y@gmail.com)  
 
 ---
@@ -142,4 +142,4 @@ Let’s make innovation human — and make it count.
 ### ✨ _Thanks for stopping by._  
 If you enjoy solving **real-world problems with real-world data**, let’s connect and build something that matters.  
 
-**— Harika Yenuga ☕📊💫**
+**— Harika Yenuga ☕💫**

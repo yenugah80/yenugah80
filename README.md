@@ -110,7 +110,7 @@ Whether it’s:
 - Making generative systems more **ethical & transparent**
 
 I bring curiosity, compassion, and the occasional ☕ meme to the table.  
-Let’s make innovation human — and make it count.
+Let’s make innovation human and make it count.
 
 ---
 

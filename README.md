@@ -147,6 +147,6 @@ Let’s make innovation human and make it count.
 ---
 
 ### ✨ _Thanks for stopping by._  
-If you enjoy solving **real-world problems with real-world data**, let’s connect and build something that matters.  
+I’m always interested in conversations around production AI systems, startup discussions, intelligent workflows, platform engineering, and applied GenAI.
 
 ** ~Harika Yenuga ☕💫**

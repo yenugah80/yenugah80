@@ -13,7 +13,6 @@
 <br>
 
 ---
----
 <div align="justified">
 ## About Me
 
@@ -32,8 +31,6 @@ Outside engineering work, I’ve also contributed to research around Responsible
 I hold a Master of Science in Business Analytics from Northwood University with a concentration in Data Science and a GPA of 3.87.
 
 Somewhere between writing backend services, debugging pipelines, reviewing model outputs, and building products, I realized I’m most interested in systems that people continue depending on long after the demo is over.
-
----
 
 ---
 

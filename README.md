@@ -13,19 +13,23 @@
 <br>
 
 ---
+## About Me
 
-## About Me  
+I’ve spent the last several years building AI and data systems inside environments where the work doesn’t stop at experimentation.
 
-I’m an **AI/ML Platform Engineer, Product Owner, and Senior Data Analyst** with years of experience designing and deploying intelligent systems that solve *real* problems.  
-My work sits at the intersection of **AI, analytics, and product thinking** blending model precision with business impact.  
+Mainly of the systems I’ve worked on needed to support actual business operations forecasting demand, detecting fraud patterns, automating workflows, improving decision cycles, or helping teams move faster without losing visibility into what the system was doing behind it.
 
-**Architected** agentic systems, RAG-powered workflows, and MLOps pipelines that scale seamlessly across enterprise, startup, and research ecosystems.  
-**Engineered** fraud detection, risk scoring, and multimodal sentiment pipelines built for speed, transparency, and trust.  
-**Delivered** BI and storytelling dashboards in Power BI, Tableau, and SQL that turn raw data into actionable insights for executives and stakeholders.  
-**Published** research in Responsible AI and Generative AI (*IEEE AIRC 2025, IBAC 2025*) focusing on transparency, fairness, and model accountability.  
-**Educated** with a Master of Science in Business Analytics (GPA 3.87) from Northwood University  merging technical depth with business strategy.  
+My background sits across AI engineering, analytics, backend systems, and product development. I work mostly in Python building APIs, retrieval pipelines, orchestration workflows, analytics platforms, and infrastructure around large language models. A lot of my day-to-day work involves connecting pieces together models, data pipelines, vector search, cloud services, monitoring, business logic, and user-facing workflows in a way that remains stable once usage scales.
 
-> I don’t just build models that predict I build systems that **ship, scale, explain themselves, and create measurable business outcomes.**
+Over the years, I’ve contributed to projects across retail, banking, healthcare, and enterprise analytics environments. That work has included fraud intelligence systems, RAG applications, forecasting workflows, multimodal AI products, enterprise dashboards, workflow automation, and AI governance initiatives.
+
+I enjoy working on systems where technical decisions have visible operational impact. The interesting part for me has never been the model alone. It’s what happens after deployment how people interact with the system, where reliability breaks, what business teams actually need, and how to make AI useful without turning every workflow into unnecessary complexity.
+
+Outside engineering work, I’ve also contributed to research around Responsible AI and Generative AI governance through IEEE AIRC 2025 and IBAC 2025, with a focus on transparency, explainability, and long-term system trust.
+
+I hold a Master of Science in Business Analytics from Northwood University with a concentration in Data Science and a GPA of 3.87.
+
+Somewhere between writing backend services, debugging pipelines, reviewing model outputs, and building products, I realized I’m most interested in systems that people continue depending on long after the demo is over.
 
 ---
 

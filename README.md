@@ -12,8 +12,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=900&color=F65C8E&center=true&vCenter=true&width=850&lines=Senior+Data+Scientist+%7C+GenAI+Engineer;AI%2FML+Platform+Architect+%7C+Product+Owner;Agentic+Systems+%26+RAG+Pipeline+Builder;MLOps+Practitioner+%7C+Analytics+Strategist;Building+AI+That+Scales+%26+Explains+Itself)](https://git.io/typing-svg)
 <br>
 
+</div>
+
 ---
-<div align="justified">
+
 ## About Me
 
 I’ve spent the last several years building AI and data systems inside environments where the work doesn’t stop at experimentation.
